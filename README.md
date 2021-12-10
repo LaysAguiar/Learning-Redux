@@ -25,7 +25,20 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [x] Controle de Estoque
 - [x] Mensagem ao zerar o Estoque
 
+#### Rodando o Projeto
+```sh
+
+# Iniciando o app
+ 1° - $ yarn server - "Inicia API-Fake"
+ 2° - $ yarn start - "Iniciar o Projeto"
+```
 
 
+#### Clonando o projeto
+```sh
+$ git clone https://github.com/LaysAguiar/Learning-Redux.git
+```
+
+<p align="center" style="margin-top: 20px; border-top: 1px solid #eee; padding-top: 20px;">Feito com 💖 by <strong>   Lays  </strong> 💖 </p>
 
 
